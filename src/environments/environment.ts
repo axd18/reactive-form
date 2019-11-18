@@ -4,15 +4,15 @@
 
 export const environment = {
    production: false,
-   firebaseConfig: {
-    apiKey: "AIzaSyDcPH3lzlHXSEeAvngMRRA9QlkeZdfvFts",
-    authDomain: "formcontact-573e8.firebaseapp.com",
-    databaseURL: "https://formcontact-573e8.firebaseio.com",
-    projectId: "formcontact-573e8",
-    storageBucket: "formcontact-573e8.appspot.com",
-    messagingSenderId: "238743913240",
-    appId: "1:238743913240:web:09d5394299e743fced546d",
-    measurementId: "G-4ZVMYDGTQ9"
+   firebaseConfig : {
+    apiKey: "AIzaSyCVgMsVF9xuDEHgnLV40sBU5F9tTgop8Sg",
+    authDomain: "lam-dev-app.firebaseapp.com",
+    databaseURL: "https://lam-dev-app.firebaseio.com",
+    projectId: "lam-dev-app",
+    storageBucket: "lam-dev-app.appspot.com",
+    messagingSenderId: "609050148446",
+    appId: "1:609050148446:web:8ce2d1e5a10855be7bbecf",
+    measurementId: "G-FYCK2WJGZN"
   }
 
 };
