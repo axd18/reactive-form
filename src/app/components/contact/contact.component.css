@@ -17,12 +17,13 @@ body {
 
 .form-container h1 {
 
-    background: #43d1af;
+    /* background: #33A5FF; */
+    background: #E5E6E7;
     padding: 20px 0 ;
     font-size: 140%;
     font-weight: 300;
     text-align: center;
-    color: #fff;
+    color: #8C8C8C;
     margin: -16px -16px 16px -16px;
 
 }
@@ -38,7 +39,7 @@ body {
     margin-bottom: 4%;
     border: 2px  #ccc;
     padding: 3%;
-    color :#555;
+    /* color :#555; */
     font: 95% Arial, Helvetica, sans-serif;
 
 
@@ -51,8 +52,8 @@ body {
     box-sizing: border-box;
     width: 100%;
     padding: 3%;
-    background: #43d1af;
-    border-bottom: 3px solid #30c293;
+    background: #33A5FF;
+    /* border-bottom: 3px solid #30c293; */
     border-top-style: none;
     border-right-style: none;
     border-left-style: none;
@@ -65,12 +66,8 @@ body {
 }
 .form-container .btn-send:hover {
 
-    background: #23bc99;
+    background: #33C4FF;
 
 
 }
 
-.main {
-    
-    
-}
