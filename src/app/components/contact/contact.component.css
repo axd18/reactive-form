@@ -64,10 +64,17 @@ body {
 
 
 }
-.form-container .btn-send:hover {
+.form-container .btn-send:hover:not([disabled]) {
 
     background: #33C4FF;
-
-
 }
 
+.alert-danger{
+    color: #FF0042;
+    background:#FFDEE7;
+    margin-bottom: 5px;
+}
+
+.container-error-message {
+    padding: 3px;  
+}
